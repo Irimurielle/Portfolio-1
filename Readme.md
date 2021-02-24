@@ -12,4 +12,4 @@ Use terminal
 ## Contact Information 
 Email: [irimurielle@gmail.com]
 ## License
-(./License)
+[MIT LICENSE](./License)
